@@ -1,0 +1,7 @@
+Hello fellas,
+this is the information for the work that you need to do now,
+
+
+make your separated branches, having same name as yours
+then write an biodata of urs, 
+and push it to this repo
